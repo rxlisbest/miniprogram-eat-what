@@ -1,0 +1,22 @@
+{
+  "name": "miniprogram-eat-what",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rxlisbest/miniprogram-eat-what.git"
+  },
+  "author": "Roy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rxlisbest/miniprogram-eat-what/issues"
+  },
+  "homepage": "https://github.com/rxlisbest/miniprogram-eat-what#readme",
+  "dependencies": {
+    "weui-wxss": "^1.1.1"
+  }
+}
